@@ -1,7 +1,6 @@
 ## Greetings 👋 Under Construction
-
--I vibecode little apps from time to time, and decided to share them here.
--Amateur Linux user. 
+-I vibecode little apps from time to time, usually theyre things I need at the moment.
+-Amateur Linux user.
 
 ## What's been made so far
 - Flashcards App: Digital flashcards tool, meant for studying
