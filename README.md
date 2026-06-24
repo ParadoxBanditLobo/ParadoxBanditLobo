@@ -1,4 +1,14 @@
-## Hi there 👋
+## Greetings 👋 Under Construction
+
+-I vibecode little apps from time to time, and decided to share them here.
+-Amateur Linux user. 
+
+## What's been made so far
+- Flashcards App: Digital flashcards tool, meant for studying
+- AppImage Nurse: Terminal toolbox to troubleshoot AppImages
+
+## Contact: 
+[ParadoxBanditLobo@proton.me](mailto:ParadoxBanditLobo@proton.me)
 
 <!--
 **ParadoxBanditLobo/ParadoxBanditLobo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
