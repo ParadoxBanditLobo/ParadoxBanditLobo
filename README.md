@@ -1,5 +1,5 @@
 ## Greetings 👋 Under Construction
-- I vibecode little apps from time to time, usually theyre things I need at the moment.
+- I vibecode little apps from time to time, usually they're things I need at the moment.
 - Amateur Linux user.
 
 ## What's been made so far
