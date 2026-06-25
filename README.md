@@ -5,6 +5,7 @@
 ## What's been made so far
 - Flashcards App: Digital flashcards tool, meant for studying
 - AppImage Nurse: Terminal toolbox to troubleshoot AppImages
+- Doom Lazy Launcher: Streamlines launching Doom wads and mods in terminal
 
 ## Contact: 
 [ParadoxBanditLobo@proton.me](mailto:ParadoxBanditLobo@proton.me)
