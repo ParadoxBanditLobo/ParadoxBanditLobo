@@ -1,13 +1,9 @@
-## Greetings 👋 Under Construction
+## Greetings 
 - I vibecode little apps from time to time, usually they're things I need at the moment.
-- Amateur Linux user.
+  They are shared in the hopes they help someone else as well.
+- Utilitarian Linux user.
 
-## What's been made so far
-- Flashcards App: Digital flashcards tool, meant for studying
-- AppImage Nurse: Terminal toolbox to troubleshoot AppImages
-- Doom Lazy Launcher: Streamlines launching Doom wads and mods in terminal
-
-## Contact: 
+## Contact 
 [ParadoxBanditLobo@proton.me](mailto:ParadoxBanditLobo@proton.me)
 
 <!--
